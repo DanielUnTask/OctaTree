@@ -1,0 +1,4 @@
+# Always LF on checkout so golden files compare byte-for-byte on every OS.
+* text=auto eol=lf
+*.rbxl binary
+*.rbxm binary

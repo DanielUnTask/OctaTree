@@ -1,0 +1,6 @@
+/target
+# Original JavaScript generator and its config: kept locally as a reference, never published.
+/legacy/
+*.rbxl
+*.rbxlx
+sourcemap.json
